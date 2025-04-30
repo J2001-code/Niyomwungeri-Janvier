@@ -1,12 +1,12 @@
-# Niyomwungeri-Janvier
-## Oriented Object project
-# 🛰️ Mission Management System (Java OOP Project)
+
+## Oriented Object projects
+#  Mission Management System (Java OOP Project)
 
 This project is a console-based **Mission Management System** implemented using Java and Object-Oriented Programming principles. It simulates organizing missions, assigning personnel, tracking status, and managing mission-specific logic.
 
 ---
 
-## 🔧 Features
+## Features
 
 - Abstract `Mission` class with subclasses (e.g., `RescueMission`, `ExplorationMission`)
 - `Personnel` class for handling staff involved in missions
@@ -16,7 +16,7 @@ This project is a console-based **Mission Management System** implemented using 
 
 ---
 
-## 💡 Concepts Used
+## Concepts Used
 
 - Abstraction and inheritance
 - Encapsulation of mission logic
@@ -25,27 +25,14 @@ This project is a console-based **Mission Management System** implemented using 
 
 ---
 
-## 🛠 Technologies
-
-- Java
-- Collections API
-- Exception handling
-- Console I/O
-
----
-
-## 🏃‍♂️ How to Run
+##  How to Run
 
 1. Clone the repo and open in IntelliJ IDEA or any Java IDE
 2. Compile and run `Main.java`
 3. Use the console interface to add missions, assign personnel, and update progress
 
 ---
-
-## ✍️ Author
-
-Part of a series of Java OOP practice projects.
-
+## practice
 
 ```java
 package Question1;
@@ -401,39 +388,19 @@ public class Main {
 # LAND MANAGEMENT SYSTEM
 A Java-based Land Management System built with Object-Oriented Programming concepts. Handles land plot registration, ownership validation, transfers, and property data tracking through structured class design and encapsulation.
 
-# 🌍 Land Management System (Java OOP Project)
+# Land Management System (Q2)
 
 This project is a console-based **Land Management System** designed using **Java OOP**. It simulates registering land plots, managing ownership, handling transfers, and validating legal property data.
 
 ---
 
-## 🔧 Features
+##  Features
 
 - Land plot registration with unique identifiers
 - Owner management and transfer of ownership
 - Area, location, and zoning info tracking
 - Abstract `LandPlot` class with specialized subclasses (e.g., `ResidentialLand`, `CommercialLand`)
 - Validation of ownership, duplicate plots, and zoning rules
-
----
-
-## 💡 Key Concepts
-
-- Object-Oriented Programming (Abstraction, Inheritance, Polymorphism)
-- Data encapsulation and validation logic
-- Console input/output using `Scanner`
-- Use of Java Collections (`ArrayList`, `HashMap`)
----
-
-
-## 🏃 How to Use
-
-1. Clone the repo and open it in IntelliJ IDEA.
-2. Run `Main.java`.
-3. Use the console menu to:
-   - Register land
-   - Assign or transfer ownership
-   - View property records
 
 ---
 
@@ -691,7 +658,7 @@ This project is a console-based **Nursery School Management System** developed u
 
 ---
 
-## 🔧 Features
+##  Features
 
 - ✅ Abstract class `NurseryClass` with concrete subclasses:
   - `BabyClass` (ages 2–3)
