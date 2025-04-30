@@ -1,6 +1,6 @@
 # Niyomwungeri-Janvier
 ## Oriented Object project
-```sql
+```java
 package Question1;
 
 import java.util.List;
